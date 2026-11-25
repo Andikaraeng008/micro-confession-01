@@ -3,8 +3,8 @@ import os
 # Two-part micro-confession: a To: line plus one unsent line, exactly as typed.
 # Gate: /output/entry.txt must be 1-260 chars; the message line is at most 200.
 ENTRY = (
-    "To: the man who bought my childhood house\n"
-    "I still drive past on Sundays to check whether you kept the treehouse, and I have never once knocked."
+    "To: the neighbour who waters my plants when I'm away\n"
+    "I slipped my spare key under your doormat last spring so you'd let yourself in — and I've waited by the door every morning since, just to hear you knock anyway."
 )
 
 def main():
